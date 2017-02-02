@@ -35,8 +35,10 @@ nav {
 
 main {
   background-color: var(--main-color);
+  grid-area: content;
 }
 
 footer {
   background-color: var(--footer-color);
+  grid-area: footer;
 }
