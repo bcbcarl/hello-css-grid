@@ -2,6 +2,8 @@
 
 https://developers.google.com/web/updates/2017/01/css-grid
 
+![screenshot](screenshot.png)
+
 ## Browser compatibility
 
 * Firefox Developer Edition
